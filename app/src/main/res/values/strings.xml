@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Proyecto_CS_DAM</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="proyecto_cs_programacion">Proyecto CS PROGRAMACIÓN</string>
+    <string name="has_olvidado_tu_contrase_a">Has olvidado tu contraseña?</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="email">Email</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="example_email">example@example.com</string>
+    <string name="last_name">Apellidos</string>
+    <string name="name">Nombre</string>
+    <string name="birthday">Año nacimiento</string>
+    <string name="el_correo_no_est_bien_formado">El correo no está bien formado</string>
+    <string name="buttonAceptar">Aceptar</string>
+    <string name="fecha_nacimiento">Fecha nacimiento</string>
+    <string name="rellenas_datos">Porfavor rellene todos los datos</string>
+    <string name="la_contrase_a_o_el_email_no_coinciden">La contraseña o el email no coinciden</string>
+</resources>
